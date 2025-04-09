@@ -24,3 +24,5 @@ if cobras == 0:
     print("Não tem cobras.")
 else:
     print(f"Cobras: {cobras}")
+total_animais = girafas + elefantes + macacos + zebras + cobras
+print(f"\nTotal de animais no zoológico: {total_animais}")
